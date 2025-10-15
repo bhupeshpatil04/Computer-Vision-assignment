@@ -1,0 +1,5 @@
+train: /mnt/data/scrap_sorter_project/dataset/images/train
+val: /mnt/data/scrap_sorter_project/dataset/images/val
+
+nc: 3
+names: ['metal', 'plastic', 'paper']
