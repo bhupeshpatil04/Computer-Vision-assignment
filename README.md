@@ -36,5 +36,3 @@ streamlit run src/streamlit_app.py
 
 ## Notes
 - The repo includes a tiny synthetic dataset so you can run the inference script right away.
-- `train_yolov8.py` is a convenience wrapper around Ultralytics' training API. If you don't want to train, set `--weights yolov8n.pt` in the inference step.
-- See `docs/writeup.pdf` for the assignment write-up and explanations.
